@@ -1,7 +1,9 @@
 package lab10;
 import java.util.Scanner;
 import java.lang.Math;
-
+/*************************************************
+ * Adding comment block for a second push to git**
+ ************************************************/
 public class PaintEstimator {
 	public static void main(String[] args) {
 	      Scanner scnr = new Scanner(System.in);
